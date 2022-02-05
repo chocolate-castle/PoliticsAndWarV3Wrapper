@@ -1,0 +1,29 @@
+{
+  "name": "politicsandwarv3wrapper",
+  "version": "0.1.1",
+  "description": "Politics And War wrapper for the GraphQL v3 API",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npx run ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chocolate-castle/PoliticsAndWarV3Wrapper.git"
+  },
+  "keywords": [
+    "politicsandwar",
+    "api",
+    "text-based",
+    "game"
+  ],
+  "author": "Chocolate Castle Dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chocolate-castle/PoliticsAndWarV3Wrapper/issues"
+  },
+  "homepage": "https://github.com/chocolate-castle/PoliticsAndWarV3Wrapper#readme",
+  "dependencies": {
+    "graphql": "^16.3.0",
+    "graphql-request": "^4.0.0"
+  }
+}
